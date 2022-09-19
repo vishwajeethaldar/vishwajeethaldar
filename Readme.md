@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**vishwajeethaldar/vishwajeethaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi There :EMOJICODE:raised_hand_with_fingers_splayed:
 
 Here are some ideas to get you started:
 
