@@ -82,7 +82,7 @@ I always wanted to be a web developer thas why i am learning Full Stack Web Deve
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
+<img src="https://activity-graph.herokuapp.com/graph?username=vishwajeethaldar&theme=tokyonight" />
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
