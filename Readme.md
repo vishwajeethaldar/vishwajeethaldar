@@ -50,23 +50,21 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeethaldar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" width="400px"/>
+<div>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeethaldar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" width="400px"/>
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adam-pw" width="400px" />
-</p>
+</div>
 
-<p>
+<div style="margin-left: 10px;"width:100%>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" bg_color=#808080 align="left" />	
-</p>
+</div>
       
-<br>
-<br>
+<br />
+<br />
 <!-- Graph Data  -->
-<p>
-<img src="https://activity-graph.herokuapp.com/graph?username=vishwajeethaldar&theme=tokyonight" />
-</p>
-<br/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=vishwajeethaldar&theme=tokyonight" width="100%" style="margin-top:20px;"/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -79,8 +77,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/vishwajeethaldar">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
 	</a>
-
-      </div>
+</div>
 
 </p>
 
