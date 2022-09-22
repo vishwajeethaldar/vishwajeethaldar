@@ -7,17 +7,15 @@
 	<img src="https://img.shields.io/github/followers/vishwajeethaldar.svg?style=social&label=Follow"/> 
 </p>
 
+<!-- GIF Image  -->
+ <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
 <!-- About Me -->
 <p> 
 	I am learner and  Full Stack Web Developer in <strong>MERN Stack</strong> 
 </p>
 
-
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 <br/>
-
-
 - 🌱 I’m currently Working on Web Applications
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me **onlyjeet3@gmail.com**
@@ -31,21 +29,19 @@
 <h3>Frontend </h3>
 
 <div>
-	 <img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/redux.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/chakra-ui.png" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/html5.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/css3.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/js.svg" alt="react" width="40" height="40"/> 
 </div>
 <h3>Backend </h3>
 <div>
-	 <img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
+	 <img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/nodejs.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/express.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/mongodb.svg" alt="react" width="40" height="40"/> 
+	
 </div>
 
 <h3>Statistical Data :-</h3>
