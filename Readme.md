@@ -1,18 +1,20 @@
-
-
-<h1 align="left">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > nice to meet you </h1>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeethaldar.repoName" />
-<img src="https://img.shields.io/github/followers/vishwajeethaldar.svg?style=social&label=Follow"/> 
-<h3> I am Vishwajeet Haldar, I have completed my graducation in Bachelor of Arts and PG Diploma in Computer Application </h3>
+<!-- Title -->
+<h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Vishwajeet Haldar </h1>
 <p>
-	
-I always wanted to be a web developer thas why i am learning Full Stack Web Development Course from Masai School. Where I am enjoying a lot, feel free to checkout my react and other web projects. <a href="http://vishwajeethaldar.github.io" target="_blank" > View</a> 
-</P>
+	<!-- Visitors -->
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeethaldar.repoName" />
+	<!-- Follow -->
+	<img src="https://img.shields.io/github/followers/vishwajeethaldar.svg?style=social&label=Follow"/> 
+</p>
+
+<!-- About Me -->
+<p> 
+	I am learner and  Full Stack Web Developer in <strong>MERN Stack</strong> 
+</p>
 
 
-<a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 <br/>
 
 <p align="center">
