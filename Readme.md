@@ -21,7 +21,7 @@
 - 🌱 I’m currently Working on Web Applications
 - 💬 Ask me about **MERN Stack**
 - 📫 Reach me **onlyjeet3@gmail.com**
-- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" ></a>
+- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >Portfolio</a>
 - :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">Resume</a>
 <br/>
 
