@@ -35,9 +35,9 @@
 -->
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **onlyjeet3@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="blank">Resume</a>
+- 📫 Reach me **onlyjeet3@gmail.com**
+- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" ></a>
+- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">Resume</a>
 <br/>
 
 
