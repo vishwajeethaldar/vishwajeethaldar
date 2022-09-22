@@ -35,7 +35,7 @@ I always wanted to be a web developer thas why i am learning Full Stack Web Deve
 
 - 📫 How to reach me **onlyjeet3@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="blank">Resume</a>
 <br/>
 
 
