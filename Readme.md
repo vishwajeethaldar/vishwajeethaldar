@@ -17,24 +17,9 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-</p>
 
-
-<!--
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
--->
 - 🌱 I’m currently Working on Web Applications
-<!--
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
--->
 - 💬 Ask me about **MERN Stack**
-
 - 📫 Reach me **onlyjeet3@gmail.com**
 - :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" ></a>
 - :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">Resume</a>
