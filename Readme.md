@@ -24,7 +24,7 @@
 - :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">Resume</a>
 <br/>
 
-
+<!-- Tech Stacks  -->
 <h2 align="left">Tech Stacks:</h2>
 
 <h3>Frontend </h3>
@@ -44,7 +44,10 @@
 	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/mongodb.svg" alt="react" width="90" height="40" height="40" style="margin-left:20px"/> 
 	
 </div>
+<h2> Data Structure and Algorithms </h2>
 
+<br/>
+<!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
 <p>
@@ -59,7 +62,7 @@
       
 <br>
 <br>
-
+<!-- Graph Data  -->
 <p>
 <img src="https://activity-graph.herokuapp.com/graph?username=vishwajeethaldar&theme=tokyonight" />
 </p>
@@ -71,24 +74,12 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/vishwajeethaldar/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+	 </a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/vishwajeethaldar">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-   <!-- 
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-     
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-       -->
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+	</a>
+
       </div>
 
 </p>
