@@ -29,18 +29,18 @@
 <h3>Frontend </h3>
 
 <div>
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/redux.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/chakra-ui.png" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/html5.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/css3.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/js.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/react.svg" alt="react" width="40" height="40"/>  &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/redux.svg" alt="react" width="40" height="40"/>  &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/chakra-ui.png" alt="react" width="40" height="40"/>  &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/html5.svg" alt="react" width="40" height="40"/>  &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/css3.svg" alt="react" width="40" height="40"/>  &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/js.svg" alt="react" width="40" height="40"/>  &nbsp;
 </div>
 <h3>Backend </h3>
 <div>
-	 <img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/nodejs.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/express.svg" alt="react" width="40" height="40"/> 
-	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/mongodb.svg" alt="react" width="40" height="40"/> 
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/nodejs.svg" alt="react" width="40" />  &nbsp; &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/express.svg" alt="react" width="80" height="40"/>  &nbsp; &nbsp;
+	<img src="https://github.com/vishwajeethaldar/vishwajeethaldar/blob/main/images/mongodb.svg" alt="react" width="90" height="40" height="40" style="margin-left:20px"/> 
 	
 </div>
 
