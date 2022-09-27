@@ -1,4 +1,5 @@
 <!-- Title -->
+
 <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Vishwajeet Haldar </h1>
 <p>
 	<!-- Visitors -->
@@ -15,16 +16,24 @@
 	I am learner and  Full Stack Web Developer in <strong>MERN Stack</strong> 
 </p>
 
+
+
 <br/>
 
-- 🌱 I’m currently Working on Web Applications
-- 💬 Ask me about **MERN Stack**
+- 💬 I am Currently Learning in Masai School
 - 📫 Reach me **onlyjeet3@gmail.com**
-- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >Portfolio</a>
-- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">Resume</a>
+- 💬 As me About **MERN Stack**
+- :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
+- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
 
+<!--
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vishwajeet+Haldar!;Learner+Full+Stack+Web+Developer...;" style="width: 100%;">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+-->
 <!-- Tech Stacks  -->
+
 <h2 align="left">Tech Stacks:</h2>
 
 <h3>Frontend </h3>
