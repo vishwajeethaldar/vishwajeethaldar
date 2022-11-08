@@ -61,19 +61,22 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
-
-<div>
-
+<div align="center">
 <!--  -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar" style="margin-left:150px;"/>
+<div>
+
+	
+<div align="center">
+
+<!-- Most USed Language  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true"/>
 
 <!-- Git States  -->
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar" />
 
 </div>
 
-<!-- Most USed Language  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true"/>
 
 
 
