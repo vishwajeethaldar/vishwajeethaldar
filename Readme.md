@@ -24,7 +24,7 @@
 - 📫 Reach me **onlyjeet3@gmail.com**
 - 💬 As me About **MERN Stack**
 - :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
-- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
+- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
 
 <!--
