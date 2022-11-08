@@ -1,5 +1,6 @@
 <!-- Title -->
 
+
 <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Vishwajeet Haldar </h1>
 <p>
 	<!-- Visitors -->
@@ -60,16 +61,14 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
-<div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeethaldar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" width="400px"/>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adam-pw" width="400px" />
-</div>
+<!-- Most USed Language  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar"/>	
 
-<div style="margin-left: 10px;"width:100%>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" bg_color=#808080 align="left" />	
-</div>
-      
+<!-- Git States  -->
+<img src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar" />
+
+<!--  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar" />
 <br />
 <br />
 <!-- Graph Data  -->
