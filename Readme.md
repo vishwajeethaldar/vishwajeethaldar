@@ -61,14 +61,22 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
-<!-- Most USed Language  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar"/>	
+
+<div>
+
+<!--  -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar" style="margin-left:150px;"/>
 
 <!-- Git States  -->
 <img src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar" />
 
-<!--  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar" />
+</div>
+
+<!-- Most USed Language  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true"/>
+
+
+
 <br />
 <br />
 <!-- Graph Data  -->
