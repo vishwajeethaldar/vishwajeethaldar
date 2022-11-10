@@ -1,5 +1,6 @@
 <!-- Title -->
 
+
 <h1 align="center">Hi , <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I am Vishwajeet Haldar </h1>
 <p>
 	<!-- Visitors -->
@@ -24,7 +25,7 @@
 - 📫 Reach me **onlyjeet3@gmail.com**
 - 💬 As me About **MERN Stack**
 - :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
-- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/vishwajeethaldar/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
+- :page_facing_up:  <a href="https://github.com/vishwajeethaldar/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
 
 <!--
@@ -32,6 +33,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+Vishwajeet+Haldar!;Learner+Full+Stack+Web+Developer...;" style="width: 100%;">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 -->
+
 <!-- Tech Stacks  -->
 
 <h2 align="left">Tech Stacks:</h2>
@@ -59,16 +61,25 @@
 <!-- Statistical Data  -->
 <h3>Statistical Data :-</h3>
 
+<div align="center">
+<!--  -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar" style="margin-left:150px;"/>
 <div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeethaldar&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" width="400px"/>
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="adam-pw" width="400px" />
+
+	
+<div align="center">
+
+<!-- Most USed Language  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true"/>
+
+<!-- Git States  -->
+<img src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar" />
+
 </div>
 
-<div style="margin-left: 10px;"width:100%>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwajeethaldar&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" bg_color=#808080 align="left" />	
-</div>
-      
+
+
+
 <br />
 <br />
 <!-- Graph Data  -->
