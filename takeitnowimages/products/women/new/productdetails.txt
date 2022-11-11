@@ -9,6 +9,7 @@ price -  2,890.00
 type = HEADBAND
 
 
+========================
 >p2
 Name - ANIMAL PRINT BLAZER
 feature - MATERIALS, CARE AND ORIGIN
@@ -23,3 +24,41 @@ S
 M
 L
 XL
+XL
+
+========================
+name = FLOWING SATIN SHIRT
+desc - Collared V-neck shirt with long sleeves and a button-up front.
+color - LIGHT KHAKI
+price - 1,990.
+
+size - 
+
+feature - MATERIALS, CARE AND ORIGIN
+
+=================
+
+name - MATERIALS, CARE AND ORIGIN
+name - SEMI-SHEER SEQUINED DRESS
+desc - Midi dress with a round neck and long sleeves. Lining. Buttoned opening at the back
+price - 5,990.0
+BLACK 
+
+
+==================
+name - VELVET MINI DRESS
+dec  - Dress featuring a straight neckline in combined organza fabric. Invisible zip fastening.
+
+₹ 2,990.00
+
+BLACK 
+
+MATERIALS, CARE AND ORIGIN
+
+===============
+name - FAUX FUR JACKET
+dec - Jacket with a lapel collar and long sleeves. Side in-seam pockets. Front fastening with hooks.
+color - SAND
+price - ₹ 7,990.00
+
+MATERIALS, CARE AND ORIGIN
