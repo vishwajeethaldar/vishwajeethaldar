@@ -1,0 +1,25 @@
+> p1
+
+Feature - MATERIALS, CARE AND ORIGIN
+description -  We work with our suppliers, workers, unions and international organizations to develop a supply chain in which 
+
+name - RHINESTONE MESH HEADBAND
+price -  2,890.00
+
+type = HEADBAND
+
+
+>p2
+Name - ANIMAL PRINT BLAZER
+feature - MATERIALS, CARE AND ORIGIN
+descr - Long sleeve blazer with a lapel collar and shoulder pads. Featuring front flap pockets and double-breasted button fastening at the front.
+
+color BLACK / BROWN | 
+size - 7556/706
+price ₹ 5,990.00
+
+XS
+S
+M
+L
+XL
