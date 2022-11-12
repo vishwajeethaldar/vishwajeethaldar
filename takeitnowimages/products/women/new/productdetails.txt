@@ -62,3 +62,11 @@ color - SAND
 price - ₹ 7,990.00
 
 MATERIALS, CARE AND ORIGIN
+
+=========
+p7
+name-OTWR 09
+dec-Overcoat with lapel collar and long sleeves with belted cuffs with buttons. Front pockets. Tonal faux leather appliqué. Interior lining. Front zipper closure with metal buckled strap.
+
+price-279.00 USD
+=====
