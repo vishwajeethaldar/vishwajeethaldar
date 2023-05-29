@@ -14,14 +14,14 @@
 
 <!-- About Me -->
 <p> 
-	I am learner and  Full Stack Web Developer in <strong>MERN Stack</strong> 
+	I am learner and  Software Developer in <strong>MERN Stack</strong> 
 </p>
 
 
 
 <br/>
 
-- 💬 I am Currently Learning in Masai School
+- 💬 I am Currently Working as a Software Developer in <a href="https://wlc.technology/about/">WLC Technology</a>
 - 📫 Reach me **onlyjeet3@gmail.com**
 - 💬 As me About **MERN Stack**
 - :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
