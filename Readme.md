@@ -23,7 +23,7 @@
 
 - 💬 I am Currently Working as a Software Developer in <a href="https://wlc.technology/about/">WLC Technology</a>
 - 📫 Reach me **onlyjeet3@gmail.com**
-- 💬 As me About **MERN Stack**
+- 💬 Ask me About **MERN Stack**
 - :open_file_folder: <a href="https://vishwajeethaldar.github.io" target="_blank" >This is my Portfolio</a>
 - :page_facing_up:  <a href="https://github.com/vishwajeethaldar/RESUME/raw/main/Vishwajeet-Haldar-Resume.pdf" target="_blank">This is my Resume</a>
 <br/>
