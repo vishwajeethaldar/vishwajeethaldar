@@ -77,8 +77,7 @@ I love building scalable, performant, and clean systems — from UI components t
 </div>
 
 <div align="center">
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwajeethaldar&theme=tokyonight" /> -->
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar" alt="GitHub Streak">
+	[![GitHub Streak](https://streak-stats.demolab.com?user=vishwajeethaldar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 </div>
 
 ---
