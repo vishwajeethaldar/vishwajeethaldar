@@ -74,10 +74,12 @@ I love building scalable, performant, and clean systems — from UI components t
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vishwajeethaldar&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeethaldar&layout=compact&theme=tokyonight" />
+	<br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar&theme=tokyonight" />
 </div>
 
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=vishwajeethaldar&theme=tokyonight" />
+	
 </div>
 
 ---
