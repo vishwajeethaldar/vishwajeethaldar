@@ -89,8 +89,8 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeethaldar" alt="Visitors">
-  <img src="https://img.shields.io/github/followers/vishwajeethaldar?label=Followers&style=social" alt="GitHub Followers">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=vishwajeethaldar.repoName" alt="Visitors">
+	<img src="https://img.shields.io/github/followers/vishwajeethaldar.svg?style=social&label=Follow" alt="Followers">
 </p>
 
 <!-- GIF Image -->
